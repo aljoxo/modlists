@@ -20,8 +20,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://i.imgur.com/STHfmxr.png",
-      "readme": "https://github.com/aljoxo/Apotheosis",
+      "image": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/apotheosis%20placeholderv2.png",
+      "readme": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/README.md",
       "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_532dcfed-f8d5-4607-af76-1380f3766922",
       "machineURL": "apotheosis/apotheosis",
       "discordURL": "https://discord.gg/4WwqfK5yHg"
