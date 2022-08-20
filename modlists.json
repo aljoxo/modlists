@@ -1,0 +1,40 @@
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Apotheosis",
+    "description": "A modlist focused on providing a brand new, modern combat experience. Apotheosis utilizes many of the new combat oriented mods, such as MCO, Precision, SCAR, and Valhalla Combat, aswell as a mix of modified Simonrim and Enairim to provide the player with balanced and interesting playstyles and progression.",
+    "author": "aljoxo",
+    "maintainers": [
+      "github/aljoxo"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "LotD",
+      "Creation Club",
+      "Simonrim"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/STHfmxr.png",
+      "readme": "https://github.com/aljoxo/Apotheosis",
+      "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_532dcfed-f8d5-4607-af76-1380f3766922",
+      "machineURL": "apotheosis/apotheosis",
+      "discordURL": "https://discord.gg/4WwqfK5yHg"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "/mscfDqP5Z3Y=",
+      "Size": 165166770,
+      "NumberOfArchives": 2256,
+      "SizeOfArchives": 166033638018,
+      "NumberOfInstalledFiles": 338712,
+      "SizeOfInstalledFiles": 282093707530
+    },
+    "version": "1.1.0",
+    "RepositoryName": ""
+  },
