@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Apotheosis",
-    "description": "A modlist focused on providing a brand new, modern combat experience. Apotheosis utilizes many of the new combat oriented mods, such as MCO, Precision, SCAR, and Valhalla Combat, aswell as a mix of modified Simonrim and Enairim to provide the player with balanced and interesting playstyles and progression.",
+    "description": "Apotheosis provides a balanced, modern combat experience, featuring an expansive DAR setup, a mix of EnaiRim and SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor.",
     "author": "aljoxo",
     "maintainers": [
       "github/aljoxo"
@@ -21,22 +21,22 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/apotheosis%20placeholderv2.png",
-      "readme": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_532dcfed-f8d5-4607-af76-1380f3766922",
-      "machineURL": "apotheosis/apotheosis",
+      "image": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Banner_MAIN.png",
+      "readme": "https://github.com/aljoxo/Apotheosis/blob/main/README.md",
+      "download": "",
+      "machineURL": "apotheosis",
       "discordURL": "https://discord.gg/4WwqfK5yHg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "/3s9kAB5sPd4=",
-      "Size": 165166211,
-      "NumberOfArchives": 2256,
-      "SizeOfArchives": 166033638018,
-      "NumberOfInstalledFiles": 338711,
-      "SizeOfInstalledFiles": 282093707455
+      "Hash": "zfmKoKcfRuo=",
+      "Size": 168716312,
+      "NumberOfArchives": 2299,
+      "SizeOfArchives": 169416484789,
+      "NumberOfInstalledFiles": 344935,
+      "SizeOfInstalledFiles": 284232580400
     },
-    "version": "1.1.1",
+    "version": "1.3.0",
     "RepositoryName": ""
   }
 ]
