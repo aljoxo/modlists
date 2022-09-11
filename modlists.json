@@ -13,7 +13,9 @@
       "Unofficial",
       "LotD",
       "Creation Club",
-      "Simonrim"
+      "Balanced",
+      "ADXP | MCO",
+      "Valhalla Combat"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -23,18 +25,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Gallery.webp",
       "readme": "https://github.com/aljoxo/Apotheosis/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_44e48325-8e20-4648-936f-91aee023868b",
+      "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_0d5c9827-df33-479d-b478-236e8452806a",
       "machineURL": "apotheosis",
       "discordURL": "https://discord.gg/4WwqfK5yHg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "uZR5CVKdsrA=",
-      "Size": 176993806,
-      "NumberOfArchives": 2285,
-      "SizeOfArchives": 168662743372,
-      "NumberOfInstalledFiles": 345148,
-      "SizeOfInstalledFiles": 283285529688
+      "Hash": "VqM/RZZxYKg=",
+      "Size": 181155177,
+      "NumberOfArchives": 2295,
+      "SizeOfArchives": 168526033816,
+      "NumberOfInstalledFiles": 345412,
+      "SizeOfInstalledFiles": 283446766029
     },
     "version": "1.3.0",
     "RepositoryName": ""
