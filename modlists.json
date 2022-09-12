@@ -1,4 +1,4 @@
-[  
+[
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Apotheosis",
@@ -25,20 +25,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Gallery.webp",
       "readme": "https://github.com/aljoxo/Apotheosis/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_0d5c9827-df33-479d-b478-236e8452806a",
+      "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_6581a483-73f3-4958-aa86-c506d306a65f",
       "machineURL": "apotheosis",
       "discordURL": "https://discord.gg/4WwqfK5yHg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VqM/RZZxYKg=",
-      "Size": 181155177,
-      "NumberOfArchives": 2295,
-      "SizeOfArchives": 168526033816,
-      "NumberOfInstalledFiles": 345412,
-      "SizeOfInstalledFiles": 283446766029
+      "Hash": "M+lH/TsUx5g=",
+      "Size": 180914746,
+      "NumberOfArchives": 2294,
+      "SizeOfArchives": 168570095855,
+      "NumberOfInstalledFiles": 345541,
+      "SizeOfInstalledFiles": 283483812721
     },
-    "version": "1.3.0",
+    "version": "1.3.0.2",
     "RepositoryName": ""
   }
 ]
