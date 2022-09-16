@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Apotheosis",
-    "description": "Apotheosis provides a balanced, modern combat experience, featuring an expansive DAR setup, a mix of EnaiRim and SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor.",
+    "title": "Arisen",
+    "description": "Arisen provides a balanced, modern combat experience, featuring an expansive DAR setup, tweaked SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor.",
     "author": "aljoxo",
     "maintainers": [
       "github/aljoxo"
@@ -23,11 +23,11 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Gallery.webp",
-      "readme": "https://github.com/aljoxo/Apotheosis/blob/main/README.md",
+      "image": "https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_WJ_Gallery.webp",
+      "readme": "https://github.com/aljoxo/Arisen/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Apotheosis.wabbajack_6581a483-73f3-4958-aa86-c506d306a65f",
-      "machineURL": "apotheosis",
-      "discordURL": "https://discord.gg/4WwqfK5yHg"
+      "machineURL": "arisen",
+      "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
