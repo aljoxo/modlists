@@ -20,7 +20,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_WJ_Gallery.webp",
