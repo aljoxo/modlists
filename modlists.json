@@ -8,14 +8,13 @@
       "github/aljoxo"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
-      "Unofficial",
-      "LotD",
       "Creation Club",
       "Balanced",
       "ADXP | MCO",
-      "Valhalla Combat"
+      "Valhalla Combat",
+      "LotD"
     ],
     "nsfw": false,
     "utility_list": false,
