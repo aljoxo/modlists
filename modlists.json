@@ -14,8 +14,7 @@
       "Creation Club",
       "Balanced",
       "ADXP | MCO",
-      "Valhalla Combat",
-      "LotD"
+      "Valhalla Combat"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -25,20 +24,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_WJ_Gallery.webp",
       "readme": "https://github.com/aljoxo/Arisen/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Arisen.wabbajack_b6945925-826a-47c2-9c73-60ad1699ee7f",
+      "download": "https://authored-files.wabbajack.org/Arisen.wabbajack_2fff5c8f-8a2a-4724-97ef-b116faff106c",
       "machineURL": "arisen",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "pJYrExTPsE0=",
-      "Size": 294815302,
-      "NumberOfArchives": 2379,
-      "SizeOfArchives": 175964893421,
-      "NumberOfInstalledFiles": 347896,
-      "SizeOfInstalledFiles": 300098436935
+      "Hash": "cDbljKz9yj4=",
+      "Size": 442216616,
+      "NumberOfArchives": 2362,
+      "SizeOfArchives": 175203395839,
+      "NumberOfInstalledFiles": 342124,
+      "SizeOfInstalledFiles": 299344798129
     },
-    "version": "1.4.1.1",
+    "version": "1.4.2",
     "RepositoryName": ""
   }
 ]
