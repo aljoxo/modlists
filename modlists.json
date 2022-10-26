@@ -24,20 +24,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_WJ_Gallery.webp",
       "readme": "https://github.com/aljoxo/Arisen/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Arisen.wabbajack_2fff5c8f-8a2a-4724-97ef-b116faff106c",
+      "download": "https://authored-files.wabbajack.org/Arisen.wabbajack_a9791aaa-31ff-4f73-b9ef-0fa480212a18",
       "machineURL": "arisen",
       "discordURL": "https://discord.gg/WakingDreams"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "cDbljKz9yj4=",
-      "Size": 442216616,
+      "Hash": "Xgpzkp+pEtc=",
+      "Size": 441990619,
       "NumberOfArchives": 2362,
       "SizeOfArchives": 175203395839,
-      "NumberOfInstalledFiles": 342124,
-      "SizeOfInstalledFiles": 299344798129
+      "NumberOfInstalledFiles": 342023,
+      "SizeOfInstalledFiles": 299337341073
     },
-    "version": "1.4.2",
+    "version": "1.4.2.1",
     "RepositoryName": ""
   }
 ]
