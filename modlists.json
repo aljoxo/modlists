@@ -5,7 +5,8 @@
     "description": "Arisen provides a balanced, modern combat experience, featuring an expansive DAR setup, tweaked SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor.",
     "author": "aljoxo",
     "maintainers": [
-      "github/aljoxo"
+      "github/aljoxo",
+      "github/bingusthecatto"
     ],
     "game": "skyrimspecialedition",
     "official": true,
